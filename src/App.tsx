@@ -70,7 +70,7 @@ class App extends React.Component<{},
           <div className='row justify-content-center'>
             <div className='col-6'>
               <div className='card text-center'>
-                <h1 className='display-4'>Stopwatch</h1>
+                <h1 className='display-4'>STOPWATCH</h1>
                 <h2 className='display-2'>{this.state.timerText}</h2>
                 <button className={buttonClass} onClick={this.toggleTimer}>{buttonText}</button>
                 {button}
