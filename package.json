@@ -3,14 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.39.0",
-    "@wildpastry/eslint-config": "^1.4.0",
-    "bootstrap": "^5.2.2",
-    "eslint": "^8.25.0",
-    "eslint-plugin-react": "^7.31.8",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1"
+    "bootstrap": "^4.3.1",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
