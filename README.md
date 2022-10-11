@@ -1,5 +1,9 @@
 ## Stopwatch
 
-Stopwatch created with React and Bootstrap
+Stopwatch with React and Bootstrap
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+## Development
+
+* **React** <br>
+* **Bootstrap** <br>
+* **TypeScript** <br>
