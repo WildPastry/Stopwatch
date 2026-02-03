@@ -10,7 +10,7 @@
     "@typescript-eslint/eslint-plugin": "^5.39.0",
     "@wildpastry/eslint-config": "^1.4.0",
     "bootstrap": "^5.2.2",
-    "eslint": "^8.25.0",
+    "eslint": "^9.26.0",
     "eslint-plugin-react": "^7.31.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
